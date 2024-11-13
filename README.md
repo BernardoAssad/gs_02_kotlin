@@ -24,7 +24,7 @@ EcoDicas é um aplicativo Android desenvolvido para a prova de desenvolvimento A
 - ViewHolder para definir as views de cada item. 
 - SQLite: Para armazenamento de dados persistente (ou outras alternativas, se usadas)
 
-##🎓 Sobre a Prova
+## 🎓 Sobre a Prova
 Este projeto foi desenvolvido como parte da avaliação do curso de Android Kotlin. O objetivo foi colocar em prática as habilidades adquiridas ao longo do ano, fazendo a criação de um aplicativo Android com componentes modernos e interativos, como RecyclerView, SearchView e a implementação de um Adapter para manipulação de listas.
 
 ## 📄 Evidências
