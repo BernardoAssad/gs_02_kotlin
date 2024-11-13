@@ -50,5 +50,5 @@ Agradecemos ao professor Ewerton Carreira (https://github.com/carreiras) que nos
 ## 📖 Integrantes
 
 - Bernardo Assad | 94532
-- Eduardo Pinheiro | 96048
+- Eduardo Pereira | 96048
 
