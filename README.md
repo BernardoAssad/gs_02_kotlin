@@ -1,5 +1,5 @@
 # 🌍 EcoDicas - Aplicativo de Sustentabilidade
-EcoDicas é um aplicativo Android desenvolvido para a prova de desenvolvimento Android da FIAP. Ele fornece dicas sustentáveis para promover ações ambientais no dia a dia dos usuários, ajudando a preservar o planeta. O projeto inclui funcionalidades como lista de dicas, busca interativa, e adição de novas dicas.
+EcoDicas é um aplicativo Android desenvolvido para a prova de desenvolvimento Android da FIAP. Ele fornece dicas sustentáveis para promover ações ambientais no dia a dia dos usuários, ajudando a preservar o planeta.
 
 ## 📋 Descrição do Projeto
 ### O aplicativo EcoDicas permite aos usuários:
@@ -9,11 +9,11 @@ EcoDicas é um aplicativo Android desenvolvido para a prova de desenvolvimento A
 - Adicionar novas dicas personalizadas.
   
 ## 🚀 Funcionalidades
-- 🌱 Lista de Dicas Sustentáveis: Visualize uma lista de dicas com título e descrição, ajudando na conscientização de práticas ecologicamente corretas.
-- 🔍 Busca Interativa: Use a barra de pesquisa para encontrar dicas específicas.
-- 🖱️ Clique para saber mais: Pode clicar em um dos ícones para ter mais dicas e te levar a um site bem explicativo.
-- 🖼️ Tema personalizado: Cores verdes e brancas que remetem a sustentabilidade.
-- 🎲 Persistência de dados: SQLite para o aplicativo funcionar com banco de dados.
+- Lista de Dicas Sustentáveis: Visualize uma lista de dicas com título e descrição, ajudando na conscientização de práticas ecologicamente corretas.
+- Busca Interativa: Use a barra de pesquisa para encontrar dicas específicas.
+- Clique para saber mais: Pode clicar em um dos ícones para ter mais dicas e te levar a um site bem explicativo.
+- Tema personalizado: Cores verdes e brancas que remetem a sustentabilidade.
+- Persistência de dados: SQLite para o aplicativo funcionar com banco de dados.
 
 ## 📄 Evidências
 
