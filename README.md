@@ -1,8 +1,8 @@
-![Imagem do WhatsApp de 2024-11-13 à(s) 14 45 39_f5f444dc](https://github.com/user-attachments/assets/2c64bcdf-c400-4336-aa62-e2474f3f6e36)#🌍 EcoDicas - Aplicativo de Sustentabilidade
-##EcoDicas é um aplicativo Android desenvolvido para a prova de desenvolvimento Android da FIAP. Ele fornece dicas sustentáveis para promover ações ambientais no dia a dia dos usuários, ajudando a preservar o planeta. O projeto inclui funcionalidades como lista de dicas, busca interativa, e adição de novas dicas.
+# 🌍 EcoDicas - Aplicativo de Sustentabilidade
+EcoDicas é um aplicativo Android desenvolvido para a prova de desenvolvimento Android da FIAP. Ele fornece dicas sustentáveis para promover ações ambientais no dia a dia dos usuários, ajudando a preservar o planeta. O projeto inclui funcionalidades como lista de dicas, busca interativa, e adição de novas dicas.
 
-##📋 Descrição do Projeto
-###O aplicativo EcoDicas permite aos usuários:
+## 📋 Descrição do Projeto
+### O aplicativo EcoDicas permite aos usuários:
 
 - Ver uma lista de dicas de sustentabilidade.
 - Buscar dicas específicas usando uma barra de pesquisa.
@@ -32,8 +32,13 @@ Este projeto foi desenvolvido como parte da avaliação do curso de Android Kotl
 - Página principal do aplicativo
 ![Imagem do WhatsApp de 2024-11-13 à(s) 14 45 12_c0534bfd](https://github.com/user-attachments/assets/565e5a34-86ce-410a-9bcd-9f956e875b23)
 
+<br>
+
 - Link que é levado quando clica no item da lista
-![Imagem do WhatsApp de 2024-11-13 à(s) 14 45 39_f5f444dc](https://github.com/user-attachments/assets/64ed0db0-840b-4719-b980-72c456697ddc)
+![Imagem do WhatsApp de 2024-11-13 à(s) 14 45 39_581bcd7b](https://github.com/user-attachments/assets/4abdca9c-aed3-4b39-a82c-1bef9a9e1ff5)
+
+
+<br>
 
 - Busca por palavras chaves com SearchView
 ![Imagem do WhatsApp de 2024-11-13 à(s) 14 45 40_e99c9e94](https://github.com/user-attachments/assets/0263523f-fcf6-4c94-8611-02ebbc40d3b6)
