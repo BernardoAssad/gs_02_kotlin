@@ -12,20 +12,8 @@ EcoDicas é um aplicativo Android desenvolvido para a prova de desenvolvimento A
 - 🌱 Lista de Dicas Sustentáveis: Visualize uma lista de dicas com título e descrição, ajudando na conscientização de práticas ecologicamente corretas.
 - 🔍 Busca Interativa: Use a barra de pesquisa para encontrar dicas específicas.
 - 🖱️ Clique para saber mais: Pode clicar em um dos ícones para ter mais dicas e te levar a um site bem explicativo.
-- 🖼️ Tema personalizado: Utilizamos cores verdes e brancas para remeter a sustentabilidade.
-- 🎲 Persistência de dados: SQLite para ter o nosso banco de dados.
-
-## 🔧 Tecnologias Utilizadas
-- Kotlin: Linguagem principal de desenvolvimento Android.
-- Android SDK: Ferramentas para criação de aplicativos Android.
-- RecyclerView: Exibição de lista de dicas.
-- SearchView: Barra de pesquisa interativa.
-- Adapter para a RecyclerView, onde cada item é preenchido com uma dica específica. 
-- ViewHolder para definir as views de cada item. 
-- SQLite: Para armazenamento de dados persistente (ou outras alternativas, se usadas)
-
-## 🎓 Sobre a Prova
-Este projeto foi desenvolvido como parte da avaliação do curso de Android Kotlin. O objetivo foi colocar em prática as habilidades adquiridas ao longo do ano, fazendo a criação de um aplicativo Android com componentes modernos e interativos, como RecyclerView, SearchView e a implementação de um Adapter para manipulação de listas.
+- 🖼️ Tema personalizado: Cores verdes e brancas que remetem a sustentabilidade.
+- 🎲 Persistência de dados: SQLite para o aplicativo funcionar com banco de dados.
 
 ## 📄 Evidências
 
